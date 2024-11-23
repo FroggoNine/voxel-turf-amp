@@ -6,5 +6,6 @@
     "origin": "https://github.com/FroggoNine - Made with AMP Config Generator/AMPTemplates.git",
     "url": "https://github.com/FroggoNine - Made with AMP Config Generator/AMPTemplates",
     "imagefile": "",
-    "prefix": "FroggoNine - Made with AMP Config Generator"
+    "prefix": "FroggoNine - Made with AMP Config Generator",
+    "type": "voxel-turf"
 }
