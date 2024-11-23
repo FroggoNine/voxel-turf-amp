@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "ConfigFile": "settings/blacklist.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/globalpermissions.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/ipbanlist.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/minimap_colours.dat",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/recent_servers.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/serverprefs_1004.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "settings/sound.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]

@@ -2,8 +2,8 @@
     {
         "Protocol": "UDP",
         "Port": "5728",
-        "Name": "Main Game Port",
+        "Name": "Steam Query Port",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": "SteamQueryPort"
     }
 ]
