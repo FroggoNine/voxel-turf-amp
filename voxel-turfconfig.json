@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Max Players",
+        "Category": "Server Settings",
+        "Description": "How many players can play at once",
+        "Keywords": "max,players",
+        "FieldName": "-maxPlayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-maxPlayers",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "8",
+        "Placeholder": "8",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]
