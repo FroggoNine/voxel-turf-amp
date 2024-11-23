@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "",
+        "Description": "Controls the server name",
+        "Keywords": "",
+        "FieldName": "serverName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverName",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "AMP Server",
+        "EnumValues": {}
+    }
+]
